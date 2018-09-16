@@ -12,3 +12,4 @@
 103.90.225.238:add:tuyetvankiem
 103.90.225.122:add:tngh
 171.244.18.19:add:9999-tangkiem
+171.244.18.23:add:9999-new
