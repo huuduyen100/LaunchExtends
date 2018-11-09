@@ -2,11 +2,11 @@ vuathienlong.com/download / http://server.vuathienlong.com/3x/loginserver.txt
 http://hoiucthienlong.com/ / http://hoiucthienlong.com/LoginServer.txt
 https://hauthienlong.com/ / http://server.hauthienlong.com/loginserver.txt
 
-http://tl-thientu.us/
+http://tl-thientu.us/ / http://tl-thientu.us/Patch/loginserver.txt
 tl2gvn.net / http://tl2gvn.net/Patch/LoginServer.txt
-http://tl-daiyen.us
-http://tlchienthan.top
-tl-thientu.us
+http://tl-daiyen.us / http://tl-daiyen.us/Patch/loginserver.txt
+http://tlchienthan.top / http://tlchienthan.top/Patch/loginserver.txt
+tl-thientu.us / http://tl-thientu.us/Patch/loginserver.txt
 http://thienlong-docton.us / http://thienlong-docton.us/patch/loginserver.txt
 
 http://tltuyetkiem.net/ - k down được
