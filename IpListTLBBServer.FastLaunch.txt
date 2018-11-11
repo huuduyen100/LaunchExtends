@@ -1,8 +1,8 @@
 103.90.225.46:add:tvk2
 163.44.207.80:add:tngh
 103.90.225.53:add:svkhsv1
-103.200.21.160:add:svkhsv2
-103.200.21.214:add:svkhsv3
+103.200.21.160:del:svkhsv2
+103.200.21.214:del:svkhsv3
 163.44.207.80:add:tlbbfpt
 150.95.111.96:add:NHD
 103.90.225.42:add:tvkiem
