@@ -3,7 +3,7 @@
 103.90.225.53:add:svkhsv1
 103.200.21.160:del:svkhsv2
 103.200.21.214:del:svkhsv3
-163.44.207.80:add:tlbbfpt
+163.44.207.80:del:tlbbfpt
 150.95.111.96:add:NHD
 103.90.225.42:add:tvkiem
 163.44.207.80:add:thankiem
@@ -11,8 +11,10 @@
 103.92.24.245:add:vuatlsv2
 103.92.24.244:add:vuatlsv345
 103.92.25.173:add:tl2gvn
+163.44.206.82:add:hoiucthienlong
 103.214.144.121:add:tldocton
-150.95.108.93:add:hoiucthienlong
+150.95.108.93:del:hoiucthienlong
 103.92.24.99:add:hauthienlong
-103.92.24.196:add:svcs
+103.92.24.196:del:svcs
 103.90.225.115:add:tvkiemnew
+103.92.25.170:add.tlchienthan
