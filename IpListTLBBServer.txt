@@ -3,7 +3,6 @@
 103.90.225.53:add:svkhsv1
 150.95.111.96:add:NHD
 103.90.225.42:tvk:tvkiem
-163.44.207.80:del:thankiem
 150.95.105.108:add:thankiem
 103.90.225.115:del:tvk
 103.90.225.161:del:tvk
