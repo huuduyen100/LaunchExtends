@@ -4,4 +4,5 @@
 150.95.111.96:add:NHD
 103.90.225.42:add:tvkiem
 150.95.105.108:add:thankiem
-103.90.225.108:add:tvknew
+103.90.225.108:del:tvkold
+103.92.26.232:add:tvknew
