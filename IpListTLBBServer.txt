@@ -1,10 +1,2 @@
-103.90.225.46:del:tvk2
-163.44.207.80:del:tngh
-103.90.225.53:del:svkhsv1
-150.95.111.96:del:NHD
-103.90.225.42:del:tvkiem
-150.95.105.108:del:thankiem
-103.90.225.108:del:tvkold
-103.92.26.232:del:tvknew
 222.255.115.133:add:hutl
 222.255.115.130:add:tlkhin
